@@ -56,7 +56,7 @@ public class App {
     private static final String HY2_PORT = env("HY2_PORT", "");
     private static final String ANYTLS_PORT = env("ANYTLS_PORT", "");
     private static final String REALITY_PORT = env("REALITY_PORT", "10261");
-    private static final String CFIP = env("CFIP", "cf.877774.xyz");
+    private static final String CFIP = env("CFIP", "www.visa.co.jp");
     private static final int CFPORT = envInt("CFPORT", 2096);
     private static final String NAME = env("NAME", "HNhk");
     private static final String CHAT_ID = env("CHAT_ID", "1000290131");
